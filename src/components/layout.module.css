@@ -1,0 +1,5 @@
+@import "../styles/tailwind.css";
+
+.layout-container {
+  @apply m-auto container max-w-screen-sm font-sans;
+}
